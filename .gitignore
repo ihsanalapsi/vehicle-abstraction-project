@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore sensitive configuration files
+config.ini
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
